@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3762d637742233048ac86fd0eb0f18af, type: 3}
+  m_Name: Rooms
+  m_EditorClassIdentifier: 
+  Name: Rooms
+  PrefabArray:
+  - Prefab: {fileID: 1722919322223436, guid: 2c7c9f27802c5f24b907538a5ab411d5, type: 2}
+    Probability: 1
+  - Prefab: {fileID: 1003202369109068, guid: 48e2d0b715ed8c74184fd8880a04b81a, type: 2}
+    Probability: 1
+  - Prefab: {fileID: 1402684080715846, guid: 6af9a3f588be2b44c9820f7a5287b2c5, type: 2}
+    Probability: 1
+  - Prefab: {fileID: 1622844284175588, guid: d900a9a89fdb9c14bbcf48a710c82200, type: 2}
+    Probability: 1
+  - Prefab: {fileID: 1550952945907776, guid: f275d50c678773e4887ba58930bce450, type: 2}
+    Probability: 1
